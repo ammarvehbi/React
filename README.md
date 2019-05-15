@@ -1,6 +1,6 @@
 # My React Applications - Ammar Vehbi Merakli
 
-#### - To see my todo app please visit https://rocky-lake-43903.herokuapp.com/
+#### - To see my todo app please visit https://todo-app-ammar.herokuapp.com/
 
 #### - To see my single page application please visit https://murmuring-badlands-15815.herokuapp.com/
 
